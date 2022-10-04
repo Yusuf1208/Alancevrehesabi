@@ -1,0 +1,17 @@
+C:\Users\YusufSahin\source\repos\MatematikHesaplamalari\MatematikHesaplamalari\bin\Debug\net6.0-windows\MatematikHesaplamalari.exe
+C:\Users\YusufSahin\source\repos\MatematikHesaplamalari\MatematikHesaplamalari\bin\Debug\net6.0-windows\MatematikHesaplamalari.deps.json
+C:\Users\YusufSahin\source\repos\MatematikHesaplamalari\MatematikHesaplamalari\bin\Debug\net6.0-windows\MatematikHesaplamalari.runtimeconfig.json
+C:\Users\YusufSahin\source\repos\MatematikHesaplamalari\MatematikHesaplamalari\bin\Debug\net6.0-windows\MatematikHesaplamalari.dll
+C:\Users\YusufSahin\source\repos\MatematikHesaplamalari\MatematikHesaplamalari\bin\Debug\net6.0-windows\MatematikHesaplamalari.pdb
+C:\Users\YusufSahin\source\repos\MatematikHesaplamalari\MatematikHesaplamalari\obj\Debug\net6.0-windows\MatematikHesaplamalari.csproj.AssemblyReference.cache
+C:\Users\YusufSahin\source\repos\MatematikHesaplamalari\MatematikHesaplamalari\obj\Debug\net6.0-windows\MatematikHesaplamalari.Form1.resources
+C:\Users\YusufSahin\source\repos\MatematikHesaplamalari\MatematikHesaplamalari\obj\Debug\net6.0-windows\MatematikHesaplamalari.csproj.GenerateResource.cache
+C:\Users\YusufSahin\source\repos\MatematikHesaplamalari\MatematikHesaplamalari\obj\Debug\net6.0-windows\MatematikHesaplamalari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YusufSahin\source\repos\MatematikHesaplamalari\MatematikHesaplamalari\obj\Debug\net6.0-windows\MatematikHesaplamalari.AssemblyInfoInputs.cache
+C:\Users\YusufSahin\source\repos\MatematikHesaplamalari\MatematikHesaplamalari\obj\Debug\net6.0-windows\MatematikHesaplamalari.AssemblyInfo.cs
+C:\Users\YusufSahin\source\repos\MatematikHesaplamalari\MatematikHesaplamalari\obj\Debug\net6.0-windows\MatematikHesaplamalari.csproj.CoreCompileInputs.cache
+C:\Users\YusufSahin\source\repos\MatematikHesaplamalari\MatematikHesaplamalari\obj\Debug\net6.0-windows\MatematikHesaplamalari.dll
+C:\Users\YusufSahin\source\repos\MatematikHesaplamalari\MatematikHesaplamalari\obj\Debug\net6.0-windows\refint\MatematikHesaplamalari.dll
+C:\Users\YusufSahin\source\repos\MatematikHesaplamalari\MatematikHesaplamalari\obj\Debug\net6.0-windows\MatematikHesaplamalari.pdb
+C:\Users\YusufSahin\source\repos\MatematikHesaplamalari\MatematikHesaplamalari\obj\Debug\net6.0-windows\MatematikHesaplamalari.genruntimeconfig.cache
+C:\Users\YusufSahin\source\repos\MatematikHesaplamalari\MatematikHesaplamalari\obj\Debug\net6.0-windows\ref\MatematikHesaplamalari.dll
